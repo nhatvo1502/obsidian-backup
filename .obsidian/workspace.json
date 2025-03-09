@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study-notes/GitHub/Cloning GitHub repo and setup Upstream.md",
+                "file": "study-notes/Terraform/HashiCorp Certified Terraform Associate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloning GitHub repo and setup Upstream"
+              "title": "HashiCorp Certified Terraform Associate"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study-notes/GitHub/Cloning GitHub repo and setup Upstream.md",
+                "file": "study-notes/Terraform/HashiCorp Certified Terraform Associate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cloning GitHub repo and setup Upstream"
+              "title": "Backlinks for HashiCorp Certified Terraform Associate"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study-notes/GitHub/Cloning GitHub repo and setup Upstream.md",
+                "file": "study-notes/Terraform/HashiCorp Certified Terraform Associate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cloning GitHub repo and setup Upstream"
+              "title": "Outgoing links from HashiCorp Certified Terraform Associate"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study-notes/GitHub/Cloning GitHub repo and setup Upstream.md",
+                "file": "study-notes/Terraform/HashiCorp Certified Terraform Associate.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cloning GitHub repo and setup Upstream"
+              "title": "Outline of HashiCorp Certified Terraform Associate"
             }
           }
         ]
@@ -170,7 +170,10 @@
   },
   "active": "da9505de816d502f",
   "lastOpenFiles": [
+    "study-notes/Terraform/Cool code snippet.md",
+    "study-notes/Terraform/How to initial a Terraform projects.md",
     "study-notes/GitHub/Cloning GitHub repo and setup Upstream.md",
+    "study-notes/Terraform/HashiCorp Certified Terraform Associate.md",
     "study-notes/GitHub"
   ]
 }
