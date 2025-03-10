@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study-notes/GitHub/GitHub Action 101.md",
+                "file": "study-notes/AWS/AWS OIDC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub Action 101"
+              "title": "AWS OIDC"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d3e376abca0faf7b",
@@ -171,13 +171,18 @@
   },
   "active": "12df5d2b2564013a",
   "lastOpenFiles": [
-    "study-notes/Languages/YAML.md",
+    "study-notes/AWS/ECS.md",
+    "study-notes/definitions/IdP.md",
+    "study-notes/AWS/AWS OIDC.md",
+    "study-notes/definitions/OpenID Connect.md",
+    "study-notes/GitHub/gitignore.md",
     "study-notes/GitHub/GitHub Action 101.md",
+    "study-notes/GitHub/Cloning GitHub repo and setup Upstream.md",
+    "study-notes/Languages/YAML.md",
     "study-notes/definitions/literal tab characters for indentation.md",
     "study-notes/definitions/serialization language.md",
     "journal/my-journal.md",
     "study-notes/definitions",
-    "study-notes/AWS/ECS.md",
     "modules",
     "modules/definition",
     "Untitled.canvas",
@@ -186,7 +191,6 @@
     "study-notes/DevOps/Untitled.md",
     "study-notes/DevOps/Docker.md",
     "study-notes/DevOps/DevSecOps/DevSecOps Fundamentals Introduction.md",
-    "study-notes/GitHub/Cloning GitHub repo and setup Upstream.md",
     "study-notes/Terraform/Terraform 101.md",
     "study-notes/Terraform/HashiCorp Certified Terraform Associate.md",
     "study-notes/Terraform/Cool code snippet.md",
