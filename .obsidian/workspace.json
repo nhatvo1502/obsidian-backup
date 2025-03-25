@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study-notes/AWS/AWS OIDC.md",
+                "file": "study-notes/GitHub/gitignore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS OIDC"
+              "title": "gitignore"
             }
           }
         ]
@@ -165,19 +165,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "obsidian-git:Open Git source control": false,
       "command-palette:Open command palette": false
     }
   },
   "active": "12df5d2b2564013a",
   "lastOpenFiles": [
-    "study-notes/AWS/ECS.md",
-    "study-notes/definitions/IdP.md",
-    "study-notes/AWS/AWS OIDC.md",
-    "study-notes/definitions/OpenID Connect.md",
-    "study-notes/GitHub/gitignore.md",
     "study-notes/GitHub/GitHub Action 101.md",
     "study-notes/GitHub/Cloning GitHub repo and setup Upstream.md",
+    "study-notes/AWS/AWS OIDC.md",
+    "study-notes/AWS/ECS.md",
+    "study-notes/definitions/IdP.md",
+    "study-notes/definitions/OpenID Connect.md",
+    "study-notes/GitHub/gitignore.md",
     "study-notes/Languages/YAML.md",
     "study-notes/definitions/literal tab characters for indentation.md",
     "study-notes/definitions/serialization language.md",
