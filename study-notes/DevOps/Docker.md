@@ -141,6 +141,16 @@ docker run -p 5000:5000 flask-app
 ```
 ---
 
+### Build and push docker image to [[AWS ECS]]
+```bash
+aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin $(terraform output -raw ecr_repo_url)
+
+docker tag my-app:latest $(terraform output -raw ecr_repo_url):latest
+
+docker push $(terraform output -raw ecr_repo_url):latest
+
+aws ecs update-service --cluster my-ecs-cluster --service ecs-service --force-new-deployment --region us-east-1
+```
 # Tags
 
 `#docker` `#cicd` `#orchestration` `#pipeline`
