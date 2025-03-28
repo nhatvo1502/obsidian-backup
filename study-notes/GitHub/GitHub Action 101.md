@@ -1,4 +1,4 @@
-### 1. Purpose:
+shu### 1. Purpose:
 
 GitHub Actions is a CI/CD tool built into GitHub that allows automating workflows like testing, building, and deploying applications directly from GitHub repo.
 
