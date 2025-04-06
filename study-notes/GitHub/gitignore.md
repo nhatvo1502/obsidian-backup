@@ -14,6 +14,6 @@ folder/sub-folder/*
 
 ```sh
 git rm --cached <file-name>
-git rm -r cached .
-fir ls-files
+git rm -r --cached .
+git ls-files
 ```
