@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study-notes/GitHub/Discard local changes and commit.md",
+                "file": "projects/GLPI/GLPI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discard local changes and commit"
+              "title": "GLPI"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,8 +171,18 @@
   },
   "active": "da9505de816d502f",
   "lastOpenFiles": [
-    "journal/my-journal.md",
+    "study-notes/GitHub/Cloning GitHub repo and setup Upstream.md",
+    "study-notes/AWS/AWS ECS.md",
+    "projects/GLPI/GLPI.md",
     "study-notes/GitHub/Discard local changes and commit.md",
+    "study-notes/GitHub/GitHub Action 101.md",
+    "projects/GLPI",
+    "study-notes/GitHub/Untitled.md",
+    "projects/Hosting GLPI on AWS/Todo list.md",
+    "projects/Hosting GLPI on AWS",
+    "projects/Untitled.md",
+    "projects",
+    "journal/my-journal.md",
     "backup/Tien.md",
     "backup/test.md",
     "backup",
@@ -181,11 +192,8 @@
     "study-notes/Linux/LPIC-1.md",
     "study-notes/Linux",
     "study-notes/AWS/AWS Secret Manager.md",
-    "study-notes/AWS/AWS ECS.md",
     "study-notes/AWS/ECS.md",
-    "study-notes/GitHub/Cloning GitHub repo and setup Upstream.md",
     "study-notes/GitHub/gitignore.md",
-    "study-notes/GitHub/GitHub Action 101.md",
     "study-notes/AWS/AWS OIDC.md",
     "study-notes/DevOps/DevSecOps/DevSecOps Fundamentals Introduction.md",
     "study-notes/definitions/serialization language.md",
@@ -197,9 +205,6 @@
     "study-notes/Languages/YAML.md",
     "study-notes/Languages",
     "study-notes/SKILLS.md",
-    "study-notes/Terraform/How to initial a Terraform projects.md",
-    "study-notes/Terraform/HashiCorp Certified Terraform Associate.md",
-    "study-notes/Terraform/Cool code snippet.md",
     "study-notes/GitHub"
   ]
 }
