@@ -4,6 +4,7 @@
 * Prompt AI to evaluate ideas against a framework to select the most suitable option
 * Use AI to brainstorm a wide range of ideas for a new business or proj
 
+# Module 1: Brainstorming idea
 **General workflow**
 * *Generating ideas:* by simulate experts (persona) and push creative boundaries to uncover solutions
 * *Pressure test:* play devil's advocate, apply constraints, choose the best path
