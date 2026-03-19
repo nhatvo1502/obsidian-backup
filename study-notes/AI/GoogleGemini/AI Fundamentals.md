@@ -1,3 +1,4 @@
+#google #ai
 # Module 4: Design great prompt
 
 Persona
