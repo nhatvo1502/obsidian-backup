@@ -92,3 +92,54 @@ Some tasks are too big for a single prompt. Prompt chaining helps you tackle lar
 *1. Visual storytelling:* Learn to create custom imagery that matches specific vision without needing complex graphic design software
 *2. Multimodal fluency:* Learn the nuances of prompting AI to create images (such as specifying style, lighting, and composition) as well ass how to use images themselves to guide AI
 *3. Streamlined workflow:* Get experience generating, refining, and combining different creative elements, such as copy and visuals, within a single chat interface
+
+# Module 6: Use AI responsibly
+*Hallucination:* AI can hallucinate even if the responses sound confident
+
+## ACT checklist
+*A* stands for "Ask yourself"
+* **IS AI right for this task?** Don't rely on AI for medical, legal, financial, or other professional advice
+* **Is this data safe to use?** Avoid inputting sensitive, confidential, personal, or proprietary data into a public AI tool, like internal company data or customers' personally id info
+* **Am I following the roles?** align with employer's policies, personal use vs enterprise use
+*C* stands for "Check before using the output"
+* **Accuracy:** Make sure you independently verify all information presented as fact (names, statistic, quotes, etc.) watch out for subtle hallucinations and errors
+* **Bias and objectivity:** Always evaluate the output to make sure it does not contain unfair biases or present a one-sided argument
+* **Appropriateness:** Assess tone and style of the output is right for intended audience and purpose (e.g. company social media post vs casual email)
+* **Originality and judgement:** Edit, refine, and add your own expertise to improve the AI output. If you receive an output that does not meet your need, iterate on your prompt to get better results
+*T* stands for "Tell people when you use AI"
+* **Be transparent:** Clearly and appropriately disclose where and when AI was used to help generate content
+* **Be compliant:** Always follow your company's specific guidelines on AI disclosure, and never input any sensitive information into a public-facing AI tool.
+
+## Best practices
+## To protect sensitive information
+*1. Use generic placeholders* when referring to people, projects, or places
+*2. Frame prompts* around the task you need done, not the people involved
+*3. Input only relevant context* needed to complete the task, rather entire documents
+*4. Clear AI's memory* to give it a clean slate, help protect privacy, and prevent bias from old prompts
+
+## Regulatory and compliance boundaries
+*1. Does this task have regulatory requirements?* medical records, financial reporting, legal documents, and compliance filings
+*2. Are there licensing or credential requirements?* 
+*3. Who is responsible?*
+
+## AI agents
+* **Conduct market research:** You can use an agent to analyze new competitors, find their key features, and synthesize recent customer review into a weekly team email
+* **Streamline sales and CRM:** Agent can go through inbox, identify new sales leads, extract their contact information, and automatically create new entries
+* **Assist with forecasting demand:** agent can analyze sale and inventory data, predict future demand for products, and order supplies to replenish stocks
+
+## AI agents workflow
+**1. Models:** computer programs trained on vast amounts of data, allows them to recignize patterns. By giving AI agent a goal, the model uses its training dataset to predict which tasks are necessary to achieve that goal and how to use the tools available to complete it
+
+**2. Permissions:** agent an connect to other software and tools through specific permission which owner grant. These settings act as guardrails, controlling how the agent executes task within the parameters. (e.g. agent that manage inbox should only have read unread messages)
+
+**3. Goals:** Broad objective you provide an AI agent, such as "Organize the Q3 kickoff meeting". Once a goal is set, the agent operates in a continuous loop until the goal is complete
+* **Analyze:** agent uses its model to determine the necessary first task
+* **Act:** With granted permission, agent execute that task
+* **Observe:** Agent reviews the result of its action and ensures it's aligned with the ***goal*** 
+After completing ***Observe*** step, agent loop back to ***Analyze*** with the next task until there is no more task on the list.
+
+## Directing AI Agents
+**1. Start with clear and specific goal:** Plan a marketing campaign, draft a 3-email sequence for our new product launch, compare 3 most well perform stock on NASDAQ
+**2. Manage permission wisely:** least privilege mindset
+**3. Always evaluate:** always review outputs, by the tone and language, especially when the target audience is highups
+**4. Iterate and refine:** Agent is a collaborator, not a teacher or someone better than us. It will make errors, it will hallucinate, and it will be bias. If the first result isn't right, refine instruction by being more precise, more context, more reference and run it back.

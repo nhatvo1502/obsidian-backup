@@ -1,1 +1,1 @@
-This is Nhat Obsidian Vault backup
+My study note
