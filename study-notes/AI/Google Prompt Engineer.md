@@ -83,3 +83,12 @@ Some tasks are too big for a single prompt. Prompt chaining helps you tackle lar
 **1. Strategic collaboration:** Learn to use AI as a thought partner that can critique and refine your strategy rather than just execute simple commands.
 **2. Complex problem solving:** Master the skill of breaking down overwhelming projects into clear and connected phrases that build toward a final goal
 **3. Stronger outputs:** Discover how layering information over multiple attempts leads to deeper and more tailored results compared to a sinle, one-off request
+
+## Generate visuals
+*Modalities:* different types of formats, like text, image, or audio
+*Multimodal:* allow to give AI multi formats for more detailed and richer context when prompting (e.g. create a video from a single sentence, draft an email based on pictures of the products, build entire presentations based on audio recordings)
+
+**Nano Banana Pro** key features:
+*1. Visual storytelling:* Learn to create custom imagery that matches specific vision without needing complex graphic design software
+*2. Multimodal fluency:* Learn the nuances of prompting AI to create images (such as specifying style, lighting, and composition) as well ass how to use images themselves to guide AI
+*3. Streamlined workflow:* Get experience generating, refining, and combining different creative elements, such as copy and visuals, within a single chat interface
