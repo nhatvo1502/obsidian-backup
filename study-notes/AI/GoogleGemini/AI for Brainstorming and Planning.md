@@ -19,3 +19,9 @@
 * ***Improved risk management:*** Catch potential problems before they derail proj
 * ***Deeper analysis:*** Get a comprehensive review of proj plan in minutes 
 * ***Clearer communication:*** Create timelines that account for all the moving parts and show how they connect so you can confidently share them with your team
+
+# Module 3: NotebookLM
+## Lab 3: Build a knowledge hub to answer questions instantly
+* **Instant, accurate answers:** Centralize information for quick access and collaboration
+* **Reduced interruptions:** Less time answering routine questions = more time on focused work
+* **A source of truth:** Ensure evyerone on the team is working from the same information, based only on th documents you provided
